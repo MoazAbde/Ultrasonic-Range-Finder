@@ -8,5 +8,3 @@ to it’s receiver. Distance is measured as soon as the device is powered and wi
 Ultrasonic Range Finder:
 ![Ultrasonic](https://github.com/MoazAbde/Ultrasonic-Range-Finder/assets/90409766/e87df651-4765-4e24-be90-7e13df268d02)
 
-The Schematic:
-![ultra sound schem](https://github.com/MoazAbde/Ultrasonic-Range-Finder/assets/90409766/7da904a9-f6c5-46a6-8a4b-4fefbdb6191c)
